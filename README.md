@@ -1,2 +1,0 @@
-# Codesinpthon
-training session codes
