@@ -1,1 +1,1 @@
-TRAINING SESSION CODES IN PYTHON ALL THE CODES ARE IN DEMO1.PY FILE 
+all Training session python codes are available here
